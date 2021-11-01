@@ -12,6 +12,6 @@ The techniques used are :
 * Feature Engineering
 * Logistic Regression
 * Ensemble Models: Random Forest
-* Hyperparameter tuning : GridSearchCV
+* Hyperparameter tuning : GridSearchCV, HyperOpt
 
 WiDS.pptx contains details of the solution and the challenges faced. 
