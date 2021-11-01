@@ -13,3 +13,5 @@ The techniques used are :
 * Logistic Regression
 * Ensemble Models: Random Forest
 * Hyperparameter tuning : GridSearchCV
+
+WiDS.pptx contains details of the solution and the challenges faced. 
